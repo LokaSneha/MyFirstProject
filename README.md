@@ -405,12 +405,12 @@ Hello world!
 				<tr>
 				<td></td>
 				<td>
-				<input type="submit" value="submit" class="button">
+					<input type="submit" value="submit" class="button">
 				</td>
 				<td>
-				<input type="reset" value="reset" class="button">
+					<input type="reset" value="reset" class="button">
 				</td>
-			</tr>
+				</tr>
 			</table>
 		</div>
 		
